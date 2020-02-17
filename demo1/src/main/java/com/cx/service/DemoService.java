@@ -7,7 +7,7 @@ public interface DemoService {
 	 */
 	String show();
 	void findAll();
-	/*
+	/**
 	 * test分支֧
 	 */
 	void text();

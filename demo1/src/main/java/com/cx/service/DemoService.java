@@ -15,4 +15,8 @@ public interface DemoService {
 	 * idea
 	 */
 	void idea();
+	/**
+	 * idea分支
+	 */
+	void testIdea();
 }

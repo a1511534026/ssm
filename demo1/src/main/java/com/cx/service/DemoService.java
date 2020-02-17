@@ -2,13 +2,13 @@ package com.cx.service;
 
 public interface DemoService {
 	/*
-	 * µÚÒ»´ÎÌá½»
+	 * ç¬¬ä¸€æ¬¡æäº¤
 	 * @param show
 	 */
 	String show();
 	void findAll();
 	/*
-	 * test ·ÖÖ§
+	 * teståˆ†æ”¯Ö§
 	 */
 	void text();
 }

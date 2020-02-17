@@ -7,4 +7,8 @@ public interface DemoService {
 	 */
 	String show();
 	void findAll();
+	/*
+	 * test ·ÖÖ§
+	 */
+	void text();
 }

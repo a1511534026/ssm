@@ -11,4 +11,8 @@ public interface DemoService {
 	 * test分支֧
 	 */
 	void text();
+	/**
+	 * idea
+	 */
+	void idea();
 }

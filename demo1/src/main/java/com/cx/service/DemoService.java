@@ -6,4 +6,5 @@ public interface DemoService {
 	 * @param show
 	 */
 	String show();
+	void findAll();
 }
